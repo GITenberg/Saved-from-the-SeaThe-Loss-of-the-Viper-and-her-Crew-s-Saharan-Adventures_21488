@@ -1,0 +1,42 @@
+_repo: Saved-from-the-SeaThe-Loss-of-the-Viper-and-her-Crew-s-Saharan-Adventures_21488
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Riou, Edouard
+    aliases:
+    - Riou, Édouard
+    - Riou, E. (Edouard)
+    - Riou
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '33898'
+    url: http://www.gutenberg.org/2009/agents/33898
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W.H.G.
+    - Kingston, W. H. G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2007-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sahara -- Juvenile fiction'
+title: Saved from the Sea; Or, The Loss of the Viper, and her Crew's Saharan Adventures
+url: http://www.gutenberg.org/ebooks/21488
